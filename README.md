@@ -37,5 +37,7 @@ This research could be improved by:
 I was surprised by how strongly the pipeline search emphasized legal and enforcement language compared to the community-centered language of the Standing Rock search.
 
 ## Data Downloads
-- [Standing Rock CSV](assets/search-results-standing-rock.csv)
-- [Dakota Access Pipeline CSV](assets/search-results-dakota-access-pipeline.csv)
+
+- [Standing Rock CSV](./assets/search-results-uw.csv)
+- [Dakota Access Pipeline CSV](./assets/search-results-uw%20(1).csv)
+
