@@ -11,7 +11,7 @@ The following search terms were used:
 Each search collected video metadata including video URLs, channel information, titles, and short descriptions.
 
 ## Why This Comparison
-I chose this comparison to examine how different keywords referencing the same geographic conflict produce different narratives on YouTube. While both searches relate to the same events, the wording may influence whether content emphasizes Indigenous resistance or legal and infrastructural perspectives.
+I chose this comparison to investigate how different keywords related to the same geographic issue produce different narratives on YouTube. While both searches are for the same events, the language may impact whether the content emphasizes Indigenous resistance or legal and infrastructure viewpoints.
 
 ## Word Cloud Comparison
 ### Standing Rock
