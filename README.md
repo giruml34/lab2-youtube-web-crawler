@@ -22,7 +22,7 @@ The Standing Rock word cloud emphasizes terms related to Indigenous identity, wa
 ### Dakota Access Pipeline
 ![Dakota Access Pipeline Word Cloud](img/wordcloud-dakota-access-pipeline.png)
 
-This word cloud highlights terms related to infrastructure, law, and governance, including “pipeline,” “access,” “court,” and “oil.”
+This word cloud highlights terms related to infrastructure, law, and governance, including “pipeline,” “access,” and “oil.”
 
 ## Observed Patterns
 The differences suggest that search language strongly shapes how geographic and political issues are represented online. The Standing Rock framing centers people and place, while the pipeline framing centers legality and development.
